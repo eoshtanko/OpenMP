@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/miss.ekaterina/Desktop/untitled6/main.cpp
+iostream
+-
+thread
+-
+fstream
+-
+cmath
+-
+algorithm
+-
+map
+-
+vector
+-
+/usr/local/opt/libomp/include/omp.h
+-
+
+/usr/local/opt/libomp/include/omp.h
+stdlib.h
+-
+stdint.h
+-
+

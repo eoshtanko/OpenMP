@@ -1,0 +1,186 @@
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0548c/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0548c.dir/build.make CMakeFiles/cmTC_0548c.dir/build
+Building C object CMakeFiles/cmTC_0548c.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_0548c.dir/OpenMPCheckVersion.c.o   -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_0548c.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_0548c/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_954f5/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_954f5.dir/build.make CMakeFiles/cmTC_954f5.dir/build
+Building CXX object CMakeFiles/cmTC_954f5.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_954f5.dir/OpenMPCheckVersion.cpp.o -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_954f5.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_954f5/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_186ea/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_186ea.dir/build.make CMakeFiles/cmTC_186ea.dir/build
+Building C object CMakeFiles/cmTC_186ea.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_186ea.dir/OpenMPCheckVersion.c.o   -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_186ea.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_186ea/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e4f7d/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e4f7d.dir/build.make CMakeFiles/cmTC_e4f7d.dir/build
+Building CXX object CMakeFiles/cmTC_e4f7d.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_e4f7d.dir/OpenMPCheckVersion.cpp.o -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_e4f7d.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_e4f7d/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9f7e1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9f7e1.dir/build.make CMakeFiles/cmTC_9f7e1.dir/build
+Building C object CMakeFiles/cmTC_9f7e1.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_9f7e1.dir/OpenMPCheckVersion.c.o   -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_9f7e1.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_9f7e1/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a0f26/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a0f26.dir/build.make CMakeFiles/cmTC_a0f26.dir/build
+Building CXX object CMakeFiles/cmTC_a0f26.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_a0f26.dir/OpenMPCheckVersion.cpp.o -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_a0f26.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_a0f26/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3b175/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3b175.dir/build.make CMakeFiles/cmTC_3b175.dir/build
+Building C object CMakeFiles/cmTC_3b175.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_3b175.dir/OpenMPCheckVersion.c.o   -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_3b175.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_3b175/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7b775/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_7b775.dir/build.make CMakeFiles/cmTC_7b775.dir/build
+Building CXX object CMakeFiles/cmTC_7b775.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_7b775.dir/OpenMPCheckVersion.cpp.o -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_7b775.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_7b775/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a45b2/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a45b2.dir/build.make CMakeFiles/cmTC_a45b2.dir/build
+Building C object CMakeFiles/cmTC_a45b2.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xpreprocessor -fopenmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_a45b2.dir/OpenMPCheckVersion.c.o   -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+/Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_a45b2.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_a45b2/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_579a9/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_579a9.dir/build.make CMakeFiles/cmTC_579a9.dir/build
+Building CXX object CMakeFiles/cmTC_579a9.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -Xpreprocessor -fopenmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=gnu++14 -o CMakeFiles/cmTC_579a9.dir/OpenMPCheckVersion.cpp.o -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+/Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_579a9.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_579a9/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eb897/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_eb897.dir/build.make CMakeFiles/cmTC_eb897.dir/build
+Building C object CMakeFiles/cmTC_eb897.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xpreprocessor -fopenmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_eb897.dir/OpenMPCheckVersion.c.o   -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+/Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_eb897.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_eb897/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5da20/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_5da20.dir/build.make CMakeFiles/cmTC_5da20.dir/build
+Building CXX object CMakeFiles/cmTC_5da20.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -Xpreprocessor -fopenmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=gnu++14 -o CMakeFiles/cmTC_5da20.dir/OpenMPCheckVersion.cpp.o -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+/Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_5da20.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_5da20/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_82cb5/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_82cb5.dir/build.make CMakeFiles/cmTC_82cb5.dir/build
+Building C object CMakeFiles/cmTC_82cb5.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xpreprocessor -fopenmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_82cb5.dir/OpenMPCheckVersion.c.o   -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+/Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_82cb5.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_82cb5/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_737c1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_737c1.dir/build.make CMakeFiles/cmTC_737c1.dir/build
+Building CXX object CMakeFiles/cmTC_737c1.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -Xpreprocessor -fopenmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=gnu++14 -o CMakeFiles/cmTC_737c1.dir/OpenMPCheckVersion.cpp.o -c /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+/Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_737c1.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_737c1/fast] Error 2
+
+
+

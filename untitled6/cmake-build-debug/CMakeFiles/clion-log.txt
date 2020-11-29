@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/miss.ekaterina/Desktop/untitled6
+-- Found OpenMP_C: -Xclang -fopenmp  
+-- Found OpenMP_CXX: -Xclang -fopenmp  
+-- Found OpenMP_C: -Xclang -fopenmp  
+-- Found OpenMP_CXX: -Xclang -fopenmp  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/miss.ekaterina/Desktop/untitled6/cmake-build-debug
